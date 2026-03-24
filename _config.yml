@@ -25,11 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haoyu Yang"
-  pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at CityU"
-  location         : "Hong Kong"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Hong Kong, China"
   email            : "yu601011@gmail.com" 
   github           : "Space-Holmes"
 
