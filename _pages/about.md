@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first-year undergraduate student majoring in Electrical Engineering (EE) at City University of Hong Kong (CityU). 
+Hi, I am a undergraduate student majoring in Computer and Data Engineering (CDE) at City University of Hong Kong (CityU). I'm also a intern at World Mind Lab at HKUST. 
 
 ## 🎓 Education
 * **City University of Hong Kong (CityU)**
