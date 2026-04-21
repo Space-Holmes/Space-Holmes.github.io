@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,10 +11,10 @@ Hi, I am a undergraduate student majoring in Computer and Data Engineering (CDE)
 
 ## 🎓 Education
 * **City University of Hong Kong (CityU)**
-  * B.Eng. in Electrical Engineering | *2025 - Present*
+  * B.Eng. in Computer and Data Engineering | *2025 - Present*
 
 ## 🏆 Honors & Awards
 * **Dean's List**, City University of Hong Kong 
 
 ## 🌱 Research Interests
-* World Models: Physical video world model, empower AI to comprehend the fundamental principles of the 3D world.
+* Video World Models: Physical video world model, empower AI to comprehend the fundamental principles of the 3D world.
