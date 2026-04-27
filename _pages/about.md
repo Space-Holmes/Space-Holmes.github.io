@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a undergraduate student majoring in Computer and Data Engineering (CDE) at City University of Hong Kong (CityU). I'm also a intern at World Mind Lab at HKUST. 
+Hi, I am a undergraduate student majoring in Computer and Data Engineering (CDE) at City University of Hong Kong (CityU). I'm also an intern at World Mind Lab at HKUST. 
 
 ## 🎓 Education
 * **City University of Hong Kong (CityU)**
